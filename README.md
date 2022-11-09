@@ -6,11 +6,12 @@ This repo contains basic projects for people like me who feel stuck with javascr
 
 ## Project Name
 
+```
 - Qutoe Generator
+
+```
 
 ## Live
 
-```
 -qutoegenerator.netlify.app
 
-```
