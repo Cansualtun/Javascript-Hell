@@ -11,6 +11,6 @@ This repo contains basic projects for people like me who feel stuck with javascr
 ## Live
 
 ```
--
+-qutoegenerator.netlify.app
 
 ```
