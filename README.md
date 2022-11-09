@@ -4,13 +4,8 @@
 This repo contains basic projects for people like me who feel stuck with javascript. <br>
 
 
-## Project Name
+## Projects
 
-- Qutoe Generator
+- Qutoe Generator [Live](qutoegenerator.netlify.app)
 
-## Live
 
-```
--
-
-```
