@@ -1,3 +1,4 @@
+@import url("styles.css");
 html {
     box-sizing: border-box;
 }
@@ -28,3 +29,22 @@ h1 {
     left : 50%;
     transform: translate(-50%,-50%);
 }
+
+/* Image Container */
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.imgexample {
+    width: 500px;
+    height: 100%;
+    padding: 20px;
+}
+@media screen and (max-width : 650px) {
+    .imgexample {
+       padding: 20px;
+       width: 300px;
+    }
+    }
