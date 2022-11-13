@@ -6,7 +6,7 @@ This repo contains basic projects for people like me who feel stuck with javascr
 
 ## Projects
 
-- Qutoe Generator [Live](qutoegenerator.netlify.app)
-- Infinity Scroll [Live](infinitiyscroll.netlify.app)
+- Qutoe Generator [Live](https://qutoegenerator.netlify.app)
+- Infinity Scroll [Live](https://infinitiyscroll.netlify.app))
 
 
